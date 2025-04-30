@@ -1,0 +1,17 @@
+https://api.openweathermap.org/data/2.5/weather?q=istanbul&appid=359d303e21fbbb49c85ea5c37792d9b0&unit=metric&lang=tr
+
+
+bu linkteki gelen degerleri kullandik
+
+google ile net error adinda bi hata alirsan googlenin gelistirici modunu acmak zorundasin o modda gizli olmayan baglantilari da kullanabiliyorsun
+
+{chrome.exe --user-data-dir="C:/ChromeDev" --disable-web-security}
+
+bu kodu baslata kopyala ve entera bas
+
+
+kod 
+
+{https://openweathermap.org/api/geocoding-api}
+
+bu siteye gore yapilmistir api urlleri degisirse eger calismayabilir guncellenebilir tabi
