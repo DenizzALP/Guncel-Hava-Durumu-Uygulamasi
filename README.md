@@ -33,4 +33,7 @@ You can get your API key by signing up at [OpenWeatherMap](https://openweatherma
 
 Some images used in the project:
 
-![Weather Image](assets/aplikasyon resimleri)
+
+![mersin](https://github.com/user-attachments/assets/8e63bc0c-297c-4941-bd44-3b0bbbe3f02c)
+![kolombiya](https://github.com/user-attachments/assets/664b8d8b-3746-4f1e-a8f6-8b9ddc692494)
+![londra](https://github.com/user-attachments/assets/debc7cf3-45a1-4caa-b952-ac419c7789f1)
