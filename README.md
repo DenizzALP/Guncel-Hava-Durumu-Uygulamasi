@@ -33,4 +33,4 @@ You can get your API key by signing up at [OpenWeatherMap](https://openweatherma
 
 Some images used in the project:
 
-![Weather Image](assets/hava-durumu.jpg)
+![Weather Image](assets/aplikasyon resimleri)
